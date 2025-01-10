@@ -1,0 +1,20 @@
+# ninja log v6
+6	1563	7563363436511119	SiVaK_autogen/timestamp	5d939685745c0ae4
+6	1563	7563363436511119	SiVaK_autogen/mocs_compilation.cpp	5d939685745c0ae4
+6	1563	7563363436511119	E:/fakulteta/tpo/SiVaK/SiVaK/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/SiVaK_autogen/timestamp	5d939685745c0ae4
+19	3093	7563363680896158	CMakeFiles/SiVaK.dir/mainwindow.cpp.obj	9b976bb044f747c2
+6	1563	7563363436511119	E:/fakulteta/tpo/SiVaK/SiVaK/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/SiVaK_autogen/mocs_compilation.cpp	5d939685745c0ae4
+1595	4088	7563363439571119	CMakeFiles/SiVaK.dir/pathOps.cpp.obj	14e8ae07d2fa37cb
+1580	4220	7563363439411121	CMakeFiles/SiVaK.dir/main.cpp.obj	d7c7d4805d81fd98
+1573	4238	7563363439341098	CMakeFiles/SiVaK.dir/SiVaK_autogen/mocs_compilation.cpp.obj	664bd6d83adff707
+3094	3469	7563363711646414	SiVaK.exe	485069e98d1079dc
+24	1118	7582341985101077	SiVaK_autogen/timestamp	5d939685745c0ae4
+24	1118	7582341985101077	SiVaK_autogen/mocs_compilation.cpp	5d939685745c0ae4
+24	1118	7582341985101077	E:/fakulteta/tpo/SiVaK/SiVaK/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/SiVaK_autogen/timestamp	5d939685745c0ae4
+24	1118	7582341985101077	E:/fakulteta/tpo/SiVaK/SiVaK/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/SiVaK_autogen/mocs_compilation.cpp	5d939685745c0ae4
+1141	3503	7582341987731057	CMakeFiles/SiVaK.dir/logger.cpp.obj	8e3dad375ee842ad
+1147	3581	7582341987801084	CMakeFiles/SiVaK.dir/worker.cpp.obj	99272118bdb69acf
+1133	3729	7582341987661070	CMakeFiles/SiVaK.dir/pathOps.cpp.obj	14e8ae07d2fa37cb
+1119	3858	7582341987521319	CMakeFiles/SiVaK.dir/SiVaK_autogen/mocs_compilation.cpp.obj	664bd6d83adff707
+1126	4560	7582341987581318	CMakeFiles/SiVaK.dir/mainwindow.cpp.obj	9b976bb044f747c2
+4560	4977	7582342021921076	SiVaK.exe	fb6d1035e115ea0

@@ -1,0 +1,9 @@
+E:/fakulteta/tpo/SiVaK/SiVaK/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/SiVaK.dir
+E:/fakulteta/tpo/SiVaK/SiVaK/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+E:/fakulteta/tpo/SiVaK/SiVaK/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+E:/fakulteta/tpo/SiVaK/SiVaK/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+E:/fakulteta/tpo/SiVaK/SiVaK/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/install.dir
+E:/fakulteta/tpo/SiVaK/SiVaK/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+E:/fakulteta/tpo/SiVaK/SiVaK/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+E:/fakulteta/tpo/SiVaK/SiVaK/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/SiVaK_autogen_timestamp_deps.dir
+E:/fakulteta/tpo/SiVaK/SiVaK/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/SiVaK_autogen.dir
